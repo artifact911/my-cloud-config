@@ -1,0 +1,5 @@
+my-config-dto:
+  myTestConfigDtoItem:
+    name: "Korben"
+    firstName: "Dallas"
+    age: 91
